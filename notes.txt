@@ -1,1 +1,3 @@
 TODAY, I AM LEARNING GIT
+
+As of now, I made my first commit. Commit is when you're done adding files and then ready to store them.
