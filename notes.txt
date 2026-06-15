@@ -1,3 +1,5 @@
-TODAY, I AM LEARNING GIT
+TODAY, I AM LEARNING 
 
 As of now, I made my first commit. Commit is when you're done adding files and then ready to store them.
+
+Another new sentence
