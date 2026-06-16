@@ -1,1 +1,3 @@
 This is the second day. I'm testing if I can remember the procedure.
+
+Pretend another programmer wrote this line then pushed it on this repository.
